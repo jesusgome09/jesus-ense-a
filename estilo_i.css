@@ -28,3 +28,23 @@ p.cuadro1{
     top: -80px;
     transform: rotate(14deg);
 }
+.mantenimiento2{
+    border: white 5px groove;
+    padding: 3px;
+    width: 250px;
+    height: 100px;
+    background-color: rgb(238, 124, 104);
+    position:absolute;
+    top: 50%;
+    left: 38%;
+}
+.mantenimiento{
+    border: white 5px groove;
+    padding: 3px;
+    width: 200px;
+    background-color: tomato;
+    position: absolute;
+    top: 53%;
+    left: 40%;
+    box-shadow: tomato;
+}
