@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+}
+h1,h2,h3,h4,h5,p{
+    font-style: cursive;
+    text-shadow: white;
+    color: white;
+}
+
+.cuadro1{
+    background-color: teal;
+    border: white 8px groove;
+    color: black;
+    width: 270px;
+    padding: 10px;
+    text-anchor: end;
+    margin-left: 100px;
+    transform:rotate(-14deg);
+}
+p.cuadro1{
+    color: black;
+}
+.logo-foto{
+    position:relative;
+    border: red 5px groove;
+    width: 300px;
+    left: 900px;
+    top: -80px;
+    transform: rotate(14deg);
+}
