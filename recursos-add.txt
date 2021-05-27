@@ -1,0 +1,13 @@
+boton1 = descargar
+boton2 = ver video
+
+la caja contendra: titulo, descripcion, y dos botones
+
+qerries.
+
+@media (max-whidth: 400px){
+    por ejemplo.
+    .coco{
+        text-align: center;
+    }
+}

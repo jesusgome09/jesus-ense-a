@@ -48,3 +48,21 @@ p.cuadro1{
     left: 40%;
     box-shadow: tomato;
 }
+.caja1{
+    float: left;
+    border: 5px rebeccapurple ridge;
+    padding: 3px;
+    text-align: center;
+    width: 500px;
+    background-color: rgb(14, 19, 36);
+    margin: 3px;
+}
+.caja2{
+    float: right;
+    border: 5px rebeccapurple ridge;
+    padding: 3px;
+    text-align: center;
+    width: 500px;
+    background-color: rgb(14, 19, 36);
+    margin: 3px;
+}

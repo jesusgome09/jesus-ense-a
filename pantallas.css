@@ -1,0 +1,12 @@
+@media  (max-width: 700px) {
+    .cuadro1{
+        background-color: teal;
+        border: white 8px groove;
+        color: black;
+        width: 270px;
+        padding: 10px;
+        text-anchor: end;
+        margin-left: 100px;
+        
+    }
+}
