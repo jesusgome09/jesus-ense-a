@@ -11,3 +11,6 @@ qerries.
         text-align: center;
     }
 }
+
+colocarles a todas las nuevas cajas:
+margin-top: 6px;
