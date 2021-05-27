@@ -20,34 +20,8 @@ h1,h2,h3,h4,h5,p{
 p.cuadro1{
     color: black;
 }
-.logo-foto{
-    position:relative;
-    border: red 5px groove;
-    width: 300px;
-    left: 900px;
-    top: -80px;
-    transform: rotate(14deg);
-}
-.mantenimiento2{
-    border: white 5px groove;
-    padding: 3px;
-    width: 250px;
-    height: 100px;
-    background-color: rgb(238, 124, 104);
-    position:absolute;
-    top: 50%;
-    left: 38%;
-}
-.mantenimiento{
-    border: white 5px groove;
-    padding: 3px;
-    width: 200px;
-    background-color: tomato;
-    position: absolute;
-    top: 53%;
-    left: 40%;
-    box-shadow: tomato;
-}
+
+
 .caja1{
     float: left;
     border: 5px rebeccapurple ridge;

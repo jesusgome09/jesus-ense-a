@@ -1,4 +1,4 @@
-@media  (min-width: 700px) {
+@media screen and (min-width: 350px) {
     .cuadro1{
         background-color: teal;
         border: white 8px groove;
@@ -6,7 +6,35 @@
         width: 270px;
         padding: 10px;
         text-anchor: end;
-        margin-left: 100px;
+        margin-left: auto;
+        margin-right: auto;
+        transform:rotate(0);
+    }
+    h1{
+        font-size: 1.6em;
+    }
+    h3{
+        font-size: 1em;
+    }
+ 
+    .caja1{
         
+        border: 5px rebeccapurple ridge;
+        padding: auto;
+        text-align: center;
+        width: 90%;
+        background-color: rgb(14, 19, 36);
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .caja2{
+        
+        border: 5px rebeccapurple ridge;
+        padding: auto;
+        text-align: center;
+        width: 90%;
+        background-color: rgb(14, 19, 36);
+        margin-left: auto;
+        margin-right: auto;
     }
 }
