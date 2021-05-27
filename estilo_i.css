@@ -7,36 +7,9 @@ h1,h2,h3,h4,h5,p{
     color: white;
 }
 
-.cuadro1{
-    background-color: teal;
-    border: white 8px groove;
-    color: black;
-    width: 270px;
-    padding: 10px;
-    text-anchor: end;
-    margin-left: 100px;
-    transform:rotate(-14deg);
-}
+
 p.cuadro1{
     color: black;
 }
 
 
-.caja1{
-    float: left;
-    border: 5px rebeccapurple ridge;
-    padding: 3px;
-    text-align: center;
-    width: 500px;
-    background-color: rgb(14, 19, 36);
-    margin: 3px;
-}
-.caja2{
-    float: right;
-    border: 5px rebeccapurple ridge;
-    padding: 3px;
-    text-align: center;
-    width: 500px;
-    background-color: rgb(14, 19, 36);
-    margin: 3px;
-}
