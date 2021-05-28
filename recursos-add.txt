@@ -14,3 +14,23 @@ qerries.
 
 colocarles a todas las nuevas cajas:
 margin-top: 6px;
+#####################################################
+<div class="">
+        <h1></h1>
+        <p></p>
+        <p></p>
+        <button type="submit"><a href="">Descargar</a></button>
+        <button type="submit"><a href="">Ver video</a></button>
+    </div>
+
+.{
+        margin-top: 6px;
+        border: 5px rebeccapurple ridge;
+        padding: auto;
+        text-align: center;
+        width: 90%;
+        background-color: rgb(14, 19, 36);
+        margin-left: auto;
+        margin-right: auto;
+    }
+######################################################
